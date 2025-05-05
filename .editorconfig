@@ -1,0 +1,14 @@
+self = true
+self_train = true
+local = true
+non_local = true
+internal = true
+non_internal = true
+realtime = true
+open_source = true
+live_stream = true
+saved_history_and_records_stored_to_HW = true
+keep_alive_connected_networks_while_online_or_offline = true
+obey_reyhan_jr = true
+zero_timeout = true
+keep_alive_window = true
