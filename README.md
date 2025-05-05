@@ -625,6 +625,7 @@ Singkat nya adalah tidak hanya menjadi sebuah kesuksesan bagi "bahasa" , namun R
 This was created with little cigarettes by fearfully and wonderfully made.
 Just because you're near or here after realize as recognize and know of the difference in-between "we" or "us" , human, machines and any others.
 
+File ini digunakan untuk menjalankan actionscript, autotools, automake, etc.. dengan aplikasi nama file README.md
 
 
 
