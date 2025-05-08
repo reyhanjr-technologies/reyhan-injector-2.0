@@ -619,7 +619,7 @@ Reyhan Jr. Injector 2.0 mendorong inovasi dalam penggunaan bahasa dengan mencipt
 ‎- **Peranan Lainnya**:  Secara keseluruhan, Reyhan Jr. Injector 2.0 berfungsi sebagai alat yang akurat serta kuat untuk bekerja dengan bahasa secara lebih efisien, efektif, komprehensif, dan inovatif, meskipun perannya mungkin tidak terlihat langsung.
 ‎
 ## Conclusion
-Singkat nya adalah tidak hanya menjadi sebuah kesuksesan bagi "bahasa" dan "Injector" serta Reyhan Injector / Reyhan Jr. Injector 2.0 juga menjadi sebuah keberhasilan dan kesuksesan untuk Reyhan Jr. Technologies dan Reyhan Jr. Cellphones hingga di masa masa nya.
+Singkat nya adalah tidak hanya menjadi sebuah kesuksesan bagi "bahasa", "Injector" serta Reyhan Injector / Reyhan Jr. Injector 2.0 juga menjadi sebuah keberhasilan dan kesuksesan untuk "Reyhan Jr. Technologies" dan "Reyhan Jr. Cellphones" hingga di masa masa nya.
 
 ## How so?
 This was created with little cigarettes by fearfully and wonderfully made.
