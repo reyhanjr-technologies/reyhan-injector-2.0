@@ -8,7 +8,7 @@ Reyhan Jr. Injector 2.0 is a tool designed to convert and interpret various type
 
 ## Features
 
-- **Auto Registration**: Auto registration, record, timestamps, labeling, name, tagging, metadata, and unique identification with SHA-256 checksum.
+- **Auto Register like Git**: Auto registration, record, timestamps, labeling, name, tagging, metadata, and unique identification with SHA-256 checksum.
 - **Conversion Support**: Converts alphabets, numerics, and symbols into a consistent format.
 - **Multi-Purpose**: Suitable for translating, decoding, observing, and understanding codes.
 - **AI-Ready**: Seamlessly integrates with AI tools for real-time processing.
